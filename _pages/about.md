@@ -15,3 +15,9 @@ At present, I work at the intersection of Machine Learning and Natural Language 
 Prior to this, I worked in [Artificial Intelligence Division](https://research.samsung.com/artificial-intelligence) at [Samsung Research Institute, Bangalore (SRI-B)](https://research.samsung.com/sri-b).
 
 Much prior to this, I worked in Product Development for Engineering and Research Division at [HCL R&D](https://www.hcltech.com/engineering-rd-services).
+
+My Primary Research areas lie at the intersection of Natural Language Processing and Computer Vision.
+To be specific, I am interested in developing models that could interpret Medical Imaging data using 
+modern deep learning and computer vision techniques to aid
+# Artificial Intelligence for Healthcare.
+If you do have a similar interest, please reach out to me. I'd be happy to collaborate.
