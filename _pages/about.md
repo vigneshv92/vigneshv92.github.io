@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Hello, I'm Vignesh
+# Hello, I'm Vignesh
 
 I have around 4 years of experience in building Distributed Systems at Scale.
 
@@ -27,7 +27,7 @@ And I can't put down in words on the impact it had created in my professional jo
 ## Research
 
 My Primary Research areas lie at the intersection of Natural Language Processing and Computer Vision.
-To be specific, I am interested in developing secure models that could interpret Medical Imaging data using 
+To be specific, I am interested in developing secure models that could interpret Medical data using 
 modern deep learning and computer vision techniques to aid Artificial Intelligence for Healthcare.
 
 If you do have a similar interest, please reach out to me. I'd be happy to collaborate.
