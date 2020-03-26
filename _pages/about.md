@@ -34,4 +34,4 @@ modern deep learning and computer vision techniques to aid Artificial Intelligen
 If you do have a similar interest, please reach out to me. I'd be happy to collaborate.
 
 Coda,
-## There's a Million Things I Haven't Done, But Just You Wait. Just You Wait.
+# There's a Million Things I Haven't Done, But Just You Wait. Just You Wait.
