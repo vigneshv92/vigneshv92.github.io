@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "There's a Million Things I Haven't Done, But Just You Wait. Just You Wait."
+title: "There's a Million Things I Haven't Done, But Just You Wait. Just You Wait.
+And, a few words about those little things i have did so far :)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,8 +17,10 @@ Prior to this, I worked in [Artificial Intelligence Division](https://research.s
 
 Much prior to this, I worked in Product Development for Engineering and Research Division at [HCL R&D](https://www.hcltech.com/engineering-rd-services).
 
+## Research
+
 My Primary Research areas lie at the intersection of Natural Language Processing and Computer Vision.
 To be specific, I am interested in developing models that could interpret Medical Imaging data using 
-modern deep learning and computer vision techniques to aid
-# Artificial Intelligence for Healthcare.
+modern deep learning and computer vision techniques to aid Artificial Intelligence for Healthcare.
+
 If you do have a similar interest, please reach out to me. I'd be happy to collaborate.
