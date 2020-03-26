@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Vignesh Venkatesh"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 # Hello, I'm Vignesh
 
 I have around 4 years of experience in building Distributed Systems at Scale.
