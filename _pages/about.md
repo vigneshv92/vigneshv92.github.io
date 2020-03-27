@@ -14,7 +14,7 @@ redirect_from:
 
 I have around 4 years of experience in building Distributed Systems at Scale.
 
-At present, I work at the intersection of Machine Learning and Natural Language Processing at [Verizon](https://www.verizon.com/) solving problems in Search Relevance leveraging Deep Learning that learn complex hierarchical structures present in data to understand content.
+At present, I work at the intersection of Machine Learning and Natural Language Processing at [Verizon](https://www.verizon.com/) solving problems in Search Relevance leveraging Deep Learning and Natural Language Processing that learn complex hierarchical structures present in data to understand content.
 
 Prior to this, I worked in [Artificial Intelligence Division](https://research.samsung.com/artificial-intelligence) at [Samsung Research Institute, Bangalore (SRI-B)](https://research.samsung.com/sri-b).
 Here, I extensively worked in NLP Research for making [Bixby](https://www.samsung.com/global/galaxy/apps/bixby/) understand natural language and ease the users to handle tasks on device through voice. 
@@ -29,7 +29,7 @@ And I can't put down in words on the impact it had created in my professional jo
 
 ## Research
 
-My Primary Research areas lie at the intersection of Natural Language Processing and Computer Vision.
+My Research interests lie at the intersection of Natural Language Processing, Computer Vision and Human Computer Interaction.
 To be specific, I am interested in developing secure models that could interpret Medical data using 
 modern deep learning and computer vision techniques to aid Artificial Intelligence for Healthcare.
 
