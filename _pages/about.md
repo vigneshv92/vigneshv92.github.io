@@ -14,7 +14,7 @@ redirect_from:
 
 I have around 5 years of experience in building Distributed Systems at scale.
 
-At present, I work at the intersection of Machine Learning and Natural Language Processing at [Verizon](https://www.verizon.com/) solving problems in Search Relevance leveraging Deep Learning and Natural Language Processing that learn complex hierarchical structures present in data to understand content.
+At present, I work at the intersection of Machine Learning and Natural Language Processing at [Verizon](https://www.verizon.com/) solving problems in Search Relevance leveraging Deep Learning and Natural Language Processing to learn complex hierarchical structures present in data to understand content.
 
 Prior to this, I worked in [Artificial Intelligence Division](https://research.samsung.com/artificial-intelligence) at [Samsung Research Institute, Bangalore (SRI-B)](https://research.samsung.com/sri-b).
 Here, I extensively worked in NLP Research to make [Bixby](https://www.samsung.com/global/galaxy/apps/bixby/) understand natural language and ease the users to handle tasks on device through voice. 
