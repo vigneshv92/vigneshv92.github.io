@@ -30,8 +30,8 @@ And I can't put down in words on the impact it had created in my professional jo
 ## Research
 
 My Research interests lie at the intersection of Natural Language Processing, Computer Vision and Human Computer Interaction.
-To be specific, I am interested in developing secure models that could interpret Medical data using 
-modern deep learning and computer vision techniques to aid Artificial Intelligence for Healthcare.
+To be specific, I am interested in developing secure models that could interpret medical data in visual form and text using 
+deep learning and computer vision techniques.
 
 If you do have a similar interest, please reach out to me. I'd be happy to collaborate.
 
