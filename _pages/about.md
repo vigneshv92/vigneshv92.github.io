@@ -12,12 +12,12 @@ redirect_from:
 # Hello, I'm Vignesh
 
 
-I have around 4 years of experience in building Distributed Systems at Scale.
+I have around 5 years of experience in building Distributed Systems at scale.
 
 At present, I work at the intersection of Machine Learning and Natural Language Processing at [Verizon](https://www.verizon.com/) solving problems in Search Relevance leveraging Deep Learning and Natural Language Processing that learn complex hierarchical structures present in data to understand content.
 
 Prior to this, I worked in [Artificial Intelligence Division](https://research.samsung.com/artificial-intelligence) at [Samsung Research Institute, Bangalore (SRI-B)](https://research.samsung.com/sri-b).
-Here, I extensively worked in NLP Research for making [Bixby](https://www.samsung.com/global/galaxy/apps/bixby/) understand natural language and ease the users to handle tasks on device through voice. 
+Here, I extensively worked in NLP Research to make [Bixby](https://www.samsung.com/global/galaxy/apps/bixby/) understand natural language and ease the users to handle tasks on device through voice. 
 In addition to the above, I was responsible for model deployment, orchestration of the entire pipeline process in Apps domain, and Natural Language Generation to resolve bottle necks in the system.
 
 Much prior to this, I worked in Product Development for Engineering and Research Division at [HCL R&D](https://www.hcltech.com/engineering-rd-services). 
